@@ -1,0 +1,24 @@
+  These are the schematics and layout I used to create my 50 watt guitar
+  amplifier.  It has a pre-amp that can be configured as a Marshall 1959, 2204
+  or SIR #39 by either a panel mounted rotary switch or a two button foot
+  switch.
+
+  The 1959 configuration does have two channels (like the original).  The
+  brite and dark channels have seperate volume controls and are internally
+  jumpered togeather.
+
+  The amplifier also has two master volume controls.  One is a pre-phase
+  inverter master (like the 2204) and the second is a post phase inverter
+  master volume (LarMar MV).
+
+  One button of the footswitch controls the relay that selects between the 1959
+  configuration and a "boost" configuration.  The boost configuration is either
+  a 2204 circuit (one gain stage more than a plexi) or the SIR #39 (two gain
+  stages more than a 1959).
+
+  The schematics (.sch) were done with kicad.
+
+  The layout was drawn with librecad (.dxf) and is to scale 1 = 1 inch.  So,
+  the layout can be used as a template for drilling the circuit board and
+  chassis (which is exactly what I did).
+
